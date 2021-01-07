@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
   <scm>
-        <connection>scm:git:git@github.com:alchen1218/slugRisonGenerator-TEST.git</connection>
+        <connection>scm:git:ssh://git@github.com:alchen1218/slugRisonGenerator-TEST.git</connection>
         <url>git@github.com:alchen1218/slugRisonGenerator-TEST.git</url>
   </scm>
 
